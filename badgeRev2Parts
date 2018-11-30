@@ -1,0 +1,26 @@
+Partlist
+
+Exported from badgeSchem.brd at 10/28/2018 10:42 AM
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package           Library            Position (mic)        Orientation
+
+BT1                     BATTCON_12MM_PTH  SparkFun-Batteries (-1080741 -86207)     MR180
+C1       100uF          CAP_2012-M        0805cap            (-1102623 -93375)     MR0
+LED1                    SML0805           led                (-1069687 -54844)     R0
+LED2                    SML0805           led                (-1059003 -72181)     R0
+LED3                    SML0805           led                (-1064623 -90746)     R0
+LED4                    SML0805           led                (-1097909 -80572)     R0
+LED5                    SML0805           led                (-1095911 -67560)     R0
+LED6                    SML0805           led                (-1064342 -79303)     R0
+LED7                    SML0805           led                (-1093670 -55928)     R0
+LED8                    SML0805           led                (-1072814 -64604)     R0
+R1       1K             0805              SparkFun-Resistors (-1102870 -62743)     MR0
+R2       10K            0805              SparkFun-Resistors (-1103740 -72670)     MR270
+R3       220            0805              SparkFun-Resistors (-1080580 -62732)     MR180
+R4       220            0805              SparkFun-Resistors (-1066298 -74179)     MR90
+S1                      SWITCH_SPST_SMD_A SparkFun-Switches  (-1097857 -89442)     R90
+U1       LMC555CMM/NOPB MUA08A            lmc555_smd         (-1080828 -72289)     MR0
